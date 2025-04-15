@@ -19,3 +19,7 @@
 
 ## Imagem
 ![Imagem 1](https://www.pedigree.com.br/sites/g/files/fnmzdf2401/files/2024-09/conheca-as-racas-de-cachorros-mais-inteligentes-do-mundo-04_0.jpg)
+
+## Negrito e Itálico
+**Negrito**
+*Itálico*
